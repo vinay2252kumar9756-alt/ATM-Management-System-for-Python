@@ -44,7 +44,7 @@ accounts.json is automatically created by the program when account data is saved
 
 # How to Run
 1. Clone the repository
-git clone https://github.com/your-username/ATM-Management-System.git
+git clone https://github.com/(https://github.com/vinay2252kumar9756-alt)
 
 2. Open the project folder
 cd ATM-Management-System
