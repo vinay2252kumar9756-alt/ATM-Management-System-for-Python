@@ -1,8 +1,8 @@
-ATM Management System 🏧
+# ATM Management System 
 
 A simple ATM Management System built using Python. This project allows users to create bank accounts, securely log in using a PIN, check their balance, deposit and withdraw money, and view their recent transactions.
 
-Features
+# Features
 
 Create a new bank account
 
@@ -28,7 +28,7 @@ Automatic transaction date and time
 
 Logout functionality
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -40,17 +40,9 @@ OS – for checking the data file
 
 Datetime – for recording transaction date and time
 
-Project Structure
-ATM-Management-System/
-│
-├── atm.py
-├── accounts.json
-└── README.md
-
-
 accounts.json is automatically created by the program when account data is saved.
 
-How to Run
+# How to Run
 1. Clone the repository
 git clone https://github.com/your-username/ATM-Management-System.git
 
@@ -60,7 +52,7 @@ cd ATM-Management-System
 3. Run the Python program
 python atm.py
 
-How It Works
+# How It Works
 
 Select Create Account to create a new bank account.
 
@@ -88,7 +80,7 @@ Logout
 
 Data Storage
 
-The project uses a JSON file named accounts.json to store account information, including:
+# The project uses a JSON file named accounts.json to store account information, including:
 
 Account number
 
@@ -108,11 +100,11 @@ IFSC code
 
 Transaction history
 
-Important Note
+# Important Note
 
 This project is created for learning and educational purposes. It is a basic console-based ATM simulation and should not be used for handling real banking or financial data.
 
-Future Improvements
+# Future Improvements
 
 Add a graphical user interface (GUI)
 
@@ -128,6 +120,6 @@ Add transaction receipt generation
 
 Add database support such as MySQL or SQLite
 
-Author
-
+# Author
 Your Name = _Vinay Kumar_
+Github link (https://github.com/vinay2252kumar9756-alt)
